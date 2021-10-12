@@ -1,4 +1,4 @@
-package senla_test; // факторизация простыми числами
+package senla_test.second; // факторизация простыми числами
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

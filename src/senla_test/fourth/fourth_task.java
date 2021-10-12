@@ -1,4 +1,4 @@
-package senla_test; // цифры в ascii
+package senla_test.fourth; // цифры в ascii
 
 import java.util.*;
 

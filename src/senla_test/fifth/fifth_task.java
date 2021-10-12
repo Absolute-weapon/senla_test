@@ -1,4 +1,4 @@
-package senla_test; // задача о сейфе
+package senla_test.fifth; // задача о сейфе
 
 import java.util.Scanner;
 

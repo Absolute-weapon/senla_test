@@ -1,4 +1,4 @@
-package senla_test; // подсчет количества гласных, сортировка по убыванию гласных, первая гласная заглавная
+package senla_test.third; // подсчет количества гласных, сортировка по убыванию гласных, первая гласная заглавная
 
 import java.util.HashMap;
 import java.util.Scanner;

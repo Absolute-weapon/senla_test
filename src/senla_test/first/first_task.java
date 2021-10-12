@@ -1,4 +1,4 @@
-package senla_test; // вывод суммы цифр в строке
+package senla_test.first; // вывод суммы цифр в строке
 
 import java.util.Scanner;
 
