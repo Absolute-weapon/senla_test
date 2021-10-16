@@ -8,7 +8,7 @@ public class third_task {
         Scanner scan = new Scanner(System.in);
         String str = scan.nextLine();
         HashMap<String, Integer> map = new HashMap<>();
-        String vowels = "аеёиоуэюя";
+        String vowels = "аеёиоуыэюя";
         int countVow = 0;
         String[] words = str.split(" ");
         for (String word : words) {
